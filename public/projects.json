@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Distributed Bitcoin Miner",
+    "category": "Systems Programming",
+    "image": "images/bitcoin.png",
+    "link": "https://github.com/hazelenu/bitcoin-miner"
+  },
+  {
+    "id": 2,
+    "title": "E-commerce Shopping Platform",
+    "category": "Full-Stack Web App",
+    "image": "images/cart.png",
+    "link": "https://github.com/hazelenu/ecommerce-react"
+  },
+  {
+    "id": 3,
+    "title": "LLM-Based NPC Dialogue System in Games",
+    "category": "AI / VR",
+    "image": "images/game.png",
+    "link": "https://hazelyr.artstation.com/projects/oJyJQw"  
+  }
+]
