@@ -2,6 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/hazelli_portfolio/', // <--- ⚠️ 用你的 repo 名称（注意：带斜杠）
+  base: process.env.NODE_ENV === 'production' ? '/hazelli_portfolio/' : '/',
   plugins: [react()],
 })
+
