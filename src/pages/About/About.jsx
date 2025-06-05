@@ -48,8 +48,8 @@ const About = () => {
   <p>👋 Hi! I'm <strong>Yiran Li</strong> – an SDE who makes short films, shoots <em>Vogue</em>-featured photos, and hosts a podcast.</p>
 
   <br />
-  <p>🎓 Master's in Entertainment Technology @ Carnegie Mellon University (2024–2026)</p>
-  <p>🎨 BASc in Product Design, Minor in CS @ The University of Hong Kong (2019–2024)</p>
+  <p>Master's in Entertainment Technology @ Carnegie Mellon University (2024–2026)</p>
+  <p>BASc in Product Design, Minor in CS @ The University of Hong Kong (2019–2024)</p>
 
   <br />
   <p>🛠️ Things I’ve built:</p>
@@ -60,8 +60,8 @@ const About = () => {
   </ul>
 
   <br />
-  <p>💡 I turn abstract ideas into thoughtful, scalable, and (hopefully) future-proof software.</p>
-  <p>🌱 I believe in empathy-driven engineering—with a dash of stubborn optimism.</p>
+  <p>I turn abstract ideas into thoughtful, scalable, and (hopefully) future-proof software.</p>
+  <p>I believe in empathy-driven engineering—with a dash of stubborn optimism.</p>
 
   <br />
   <p>🎨 Curious about my art? <a href="https://hazelyr.artstation.com" target="_blank" rel="noopener noreferrer">hazelyr.artstation.com</a></p>
