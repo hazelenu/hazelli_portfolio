@@ -45,21 +45,28 @@ const About = () => {
     </header>
 
     <section className="about-text">
-      <p>
-  Hi, I'm <strong>Yiran Li</strong>—but everyone calls me <strong>Hazel</strong>, because it's way easier to spell in a coffee order.
-  <p></p>
-  I'm a software developer who lives at the intersection of technology, storytelling, and design. With a background in Product Design from the University of Hong Kong and currently pursuing my Master's in Entertainment Technology at Carnegie Mellon University, I build digital experiences that are as thoughtful as they are scalable.
-</p>
-<p>
-  In past lives (and internships), I’ve built real-time LLM-powered NPCs for VRChat, shipped containerized chatbots to the App Store, and designed high-performance distributed systems in Go—all while trying to write code that my future self won't hate.
-</p>
-<p>
-  I’m passionate about turning abstract ideas into delightful, working software—and I believe the best solutions come from blending empathy, engineering, and just a bit of stubborn optimism.
-</p>
+  <p>👋 Hi! I'm <strong>Yiran Li</strong> – an SDE who makes short films, shoots <em>Vogue</em>-featured photos, and hosts a podcast.</p>
 
+  <br />
+  <p>🎓 Master's in Entertainment Technology @ Carnegie Mellon University (2024–2026)</p>
+  <p>🎨 BASc in Product Design, Minor in CS @ The University of Hong Kong (2019–2024)</p>
 
+  <br />
+  <p>🛠️ Things I’ve built:</p>
+  <ul>
+    <li>• Real-time, LLM-powered NPCs in VRChat</li>
+    <li>• Containerized chatbots shipped to the App Store</li>
+    <li>• High-performance distributed systems in Go</li>
+  </ul>
 
-    </section>
+  <br />
+  <p>💡 I turn abstract ideas into thoughtful, scalable, and (hopefully) future-proof software.</p>
+  <p>🌱 I believe in empathy-driven engineering—with a dash of stubborn optimism.</p>
+
+  <br />
+  <p>🎨 Curious about my art? <a href="https://hazelyr.artstation.com" target="_blank" rel="noopener noreferrer">hazelyr.artstation.com</a></p>
+</section>
+
 
 
     {/* <!--
